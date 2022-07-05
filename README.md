@@ -28,7 +28,7 @@ Chris Enos - cenos11@gmail.com
 
 Version History
 
-1.0: The originalptimizations
+1.0: The original
 
 License
 
